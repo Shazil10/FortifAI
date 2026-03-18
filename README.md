@@ -17,7 +17,7 @@
 
 ## Overview
 
-FortifAI is positioned in the global cybersecurity training market (valued at $5.23B in 2024, projected to grow to $13.70B by 2030 at 17.4% CAGR). The platform targets U.S. SMBs — a $386.5M serviceable obtainable market — with AI-driven personalization.
+FortifAI is positioned in the global cybersecurity training market (valued at $5.23B in 2024, projected to grow to $13.70B by 2030 at 17.4% CAGR). The platform targets U.S. SMBs, a $386.5M serviceable obtainable market, with AI-driven personalization.
 
 Key proposal components:
 
@@ -31,7 +31,7 @@ Key proposal components:
 
 FortifAI was submitted to the **12th Lee Kuan Yew Global Business Plan Competition (LKYGBPC)**, organised by **Singapore Management University (SMU)**.
 
-I led the product concept, research, and financial modeling. Teammates supported the competition application submission and presentation logistics. You can watch the submitted competition video [here](./FortifAI_Competition_Video.mp4).
+I led the product concept, research, and financial modeling. Teammates supported the competition application submission and presentation logistics. Watch the submitted competition video [here](./FortifAI_Competition_Video.mp4).
 
 ## Tech Stack
 
