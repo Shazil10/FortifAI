@@ -2,8 +2,6 @@
 
 **FortifAI** is an AI-powered cybersecurity training platform designed for small and medium-sized businesses (SMBs). With 95% of breaches stemming from human error, FortifAI addresses the human side of cybersecurity through adaptive, role-specific training that evolves with the threat landscape.
 
-> **Sole author of the concept, market analysis, financial modeling, and written proposal.**
-
 ---
 
 ## Resources
@@ -33,12 +31,12 @@ Key proposal components:
 
 FortifAI was submitted to the **12th Lee Kuan Yew Global Business Plan Competition (LKYGBPC)**, organised by **Singapore Management University (SMU)**.
 
-I led the product concept, research, and financial modeling. Teammates supported the competition application submission and presentation logistics.
+I led the product concept, research, and financial modeling. Teammates supported the competition application submission and presentation logistics. You can watch the submitted competition video [here](./FortifAI_Competition_Video.mp4).
 
-## Tech Stack (proposed platform)
+## Tech Stack
 
-- Adaptive AI training engine
-- Role-based content personalization
-- Phishing simulation modules
-- Real-time threat intelligence integration
+- Python (analysis and modeling)
+- Excel / Google Sheets (financial modeling & projections)
+- Vercel (deployment for web materials / landing concepts)
+- PowerPoint / Keynote (deck creation)
 
